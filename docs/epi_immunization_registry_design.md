@@ -396,8 +396,6 @@ WHO (2018). Analysis and use of health facility data: Guidance for immunization 
 
 DHIS2 digital data package for aggregate EPI Aggregate. Retrieved from: [https://dhis2.org/who-package-downloads/#epi](https://dhis2.org/who-package-downloads/#epi)
 
-[^1]:
- The available facilities to select for this data element depend on the “search org unit” configured for the end user. If a clinician only has access to search for and view records within her province, then she will not be able to select a facility outside her province as the “facility of birth”. System admins generally do not have this restriction and can enter all facilities within the system.
+[^1]: The available facilities to select for this data element depend on the “search org unit” configured for the end user. If a clinician only has access to search for and view records within her province, then she will not be able to select a facility outside her province as the “facility of birth”. System admins generally do not have this restriction and can enter all facilities within the system.
 
-[^2]:
- Date of birth is mandatory by default for end users to ensure the child’s vaccination schedule is properly presented. However, date of birth is non-mandatory for system administrators to create test data without, for example to troubleshoot program rules..
+[^2]: Date of birth is mandatory by default for end users to ensure the child’s vaccination schedule is properly presented. However, date of birth is non-mandatory for system administrators to create test data without, for example to troubleshoot program rules..
