@@ -1,1 +1,1 @@
-# IMM - Immunization Registry
+# EIR - Electronic Immunization Registry
