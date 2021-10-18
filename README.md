@@ -1,4 +1,4 @@
-# EPI - Immunization Registry Tracker
+# EIR - Electronic Immunization Registry Tracker
 
 | DHIS2 Version | Package Version | Package Type | Documents | Metadata | Updated |
 |-|-|-|-|-|-|
