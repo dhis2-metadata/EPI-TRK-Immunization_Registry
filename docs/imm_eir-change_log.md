@@ -1,4 +1,4 @@
-# Change Log { #eir-change-log }
+# Change Log { #imm-eir-change-log }
 
 Version 1.0.0 vs Version 1.1.0
 
