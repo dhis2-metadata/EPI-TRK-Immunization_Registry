@@ -1,8 +1,8 @@
-# Change Log { #imm-eir-change-log }
+# Release Note { #imm-eir-release-note }
 
-Version 1.0.0 vs Version 1.1.0
+## 1.1.0
 
-## Critical Bug Fixes
+### Critical Bug Fixes
 
 - Upgrade to version 2.36 compatibility
   - Required update on the “Unlock Immunization Schedule” rule
@@ -10,7 +10,7 @@ Version 1.0.0 vs Version 1.1.0
 - Fixed and standardized HIV+ contraindication program rules 
   - Change made to ProgramRuleVariable to use option code for HIV status
 
-## Features Improvements
+### Features Improvements
 
 1. **Changes to program rule schedule for displaying all eligible doses at every visit**
 
@@ -72,3 +72,7 @@ Version 1.0.0 vs Version 1.1.0
     - This screenshot highlights this text. *“The first time the entire immunization schedule is unlocked, the event date is recorded as a data element, and written to all subsequent events for the patient until opened again. In subsequent visits, the date of the schedule unlock is also shown in the top bar.”*
 
     ![Example 3](resources/images/eir_tracker_37.png)
+
+## 1.0.0
+
+Initial release of Electronic Immunization Registry package
