@@ -32899,124 +32899,7 @@
             "zeroIsSignificant": false
         }
     ],
-    "dataEntryForms": [
-        {
-            "attributeValues": [],
-            "externalAccess": false,
-            "favorite": false,
-            "format": 0,
-            "id": "tVyJdqYQxwb",
-            "name": "Birth details",
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
-            "style": "COMFORTABLE",
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Údaje o narození"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "تفاصيل الميلاد"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "تفاصيل الميلاد"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Détails de la naissance"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Detalhes do nascimento"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Detalhes do nascimento"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "تفاصيل الميلاد"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "تفاصيل الميلاد"
-                }
-            ],
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "attributeValues": [],
-            "externalAccess": false,
-            "favorite": false,
-            "format": 0,
-            "id": "AFzaFyistCF",
-            "name": "Immunization -original-",
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
-            "style": "NORMAL",
-            "translations": [
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "التحصين -الأصلي-"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Imunizace - původní -"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "التحصين -الأصلي-"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Imunização -original-"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "التحصين -الأصلي-"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Imunização -original-"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Vaccination -original-"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "التحصين -الأصلي-"
-                }
-            ],
-            "userAccesses": [],
-            "userGroupAccesses": []
-        }
-    ],
+    "dataEntryForms": [],
     "dataSets": [],
     "documents": [],
     "eventCharts": [
@@ -47430,7 +47313,7 @@
         "DHIS2Version": "2.36.12",
         "code": "IMM_EIR",
         "description": "Electronic Immunization Registry",
-        "lastUpdated": "20221107T113528",
+        "lastUpdated": "20221107T125154",
         "locale": "en",
         "name": "IMM_EIR_TRK_DHIS2.36.12-en",
         "type": "TRK",
@@ -84954,14 +84837,11 @@
             "attributeValues": [],
             "autoGenerateEvent": true,
             "blockEntryForm": false,
-            "dataEntryForm": {
-                "id": "tVyJdqYQxwb"
-            },
             "displayGenerateEventBox": true,
             "enableUserAssignment": false,
             "externalAccess": false,
             "favorite": false,
-            "formType": "CUSTOM",
+            "formType": "SECTION",
             "generatedByEnrollmentDate": false,
             "hideDueDate": true,
             "id": "RcbCl5ww8XY",
@@ -85337,9 +85217,6 @@
             "attributeValues": [],
             "autoGenerateEvent": true,
             "blockEntryForm": true,
-            "dataEntryForm": {
-                "id": "AFzaFyistCF"
-            },
             "displayDueDateLabel": "Next visit date",
             "displayExecutionDateLabel": "Date of services given",
             "displayGenerateEventBox": true,
@@ -85349,7 +85226,7 @@
             "externalAccess": false,
             "favorite": false,
             "featureType": "NONE",
-            "formType": "CUSTOM",
+            "formType": "SECTION",
             "generatedByEnrollmentDate": false,
             "hideDueDate": false,
             "id": "s53RFfXA75f",
