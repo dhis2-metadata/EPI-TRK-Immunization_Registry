@@ -14,4 +14,4 @@
 
 ## Metadata Reference
 
-- [Version 1.1.0](https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.38/IMM_TRI_1.0.0_DHIS2.38.xlsx)
+- [Version 1.1.0](https://packages.dhis2.org/en/IMM_EIR/1.1.0/DHIS2.36/IMM_EIR_COMPLETE_1.1.0_DHIS2.36.xlsx)
