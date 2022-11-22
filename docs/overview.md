@@ -1,5 +1,9 @@
 # Electronic Immunization Registry
 
+## Release Note
+
+- [Release Note](#imm-eir-release-note)
+
 ## Design
 
 - [Version 1.1.0](#imm-eir-design-110)
@@ -7,10 +11,6 @@
 ## Installation
 
 - [Installation Guide](#imm-eir-installation)
-
-## Release Note
-
-- [Release Note](#imm-eir-release-note)
 
 ## Metadata Reference
 
