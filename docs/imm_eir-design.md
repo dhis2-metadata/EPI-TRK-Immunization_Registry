@@ -295,7 +295,7 @@ To support quick search of patients at facility level, [four separate “working
 
 ![Working lists](resources/images/epi_tracker_28.png)
 
-The following table describes the filter for each list, which can be altered through the API (See documentation for “[Tracked Entity Instance Filters](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-master/tracker.html#webapi_tei_filters)”).
+The following table describes the filter for each list, which can be altered through the API (See documentation for “[Tracked Entity Instance Filters](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-master/tracker-deprecated.html#webapi_tei_filters)”).
 
 | Name | Description | Configuration |
 |-|-|-|
