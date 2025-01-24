@@ -1,5 +1,14 @@
 # Release Note { #imm-eir-release-note }
 
+
+## 1.1.1
+Minor update of Electronic Immunization Registry with 2.40 compatibility.
+
+Improvements:
+- Addition of Meningitis A vaccine to routine vaccination. First dose at 9-18 months, with contraindication for illness.
+- Hepatitis B dose 2 and 3 to routine vaccination, with skip logic.
+
+
 ## 1.1.0
 
 ### Critical Bug Fixes
